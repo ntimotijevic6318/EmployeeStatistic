@@ -1,8 +1,3 @@
-# **Link ka kodu[MEGA] : [employee_statistic](https://mega.nz/folder/zWYyWCZJ#VZWf_0nVGUpURvoRCtlD8w).**
-
-
-
-
 
 <img width="447" alt="employee_statictic_view" src="https://github.com/ntimotijevic6318/employee_statistic/assets/72966266/a963a6fa-d768-4627-90b9-340ca7eacafd">**
 
