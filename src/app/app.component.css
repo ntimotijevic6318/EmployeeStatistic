@@ -1,0 +1,46 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+  height: 50px;
+  background-color: grey;
+}
+
+td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+tbody{
+  background-color: white;
+}
+
+table{
+  position: relative;
+  margin-left: 36%;
+}
+
+.edit{
+  color : blue;
+  text-decoration: underline;
+}
+
+
+.red {
+  background-color: rgb(243, 173, 156);
+  color: black;
+}
+
+#canvas{
+  position: absolute;
+  margin-top : 1%;
+  margin-left: 32%;
+}
+
+
+
+
