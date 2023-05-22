@@ -1,3 +1,7 @@
+#**Link ka kodu : [employee_statistic](https://mega.nz/folder/zWYyWCZJ#VZWf_0nVGUpURvoRCtlD8w).**
+#**Izgled aplikacije : <img width="447" alt="employee_statictic_view" src="https://github.com/ntimotijevic6318/employee_statistic/assets/72966266/a963a6fa-d768-4627-90b9-340ca7eacafd">**
+
+
 # EmployeeStatistic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
