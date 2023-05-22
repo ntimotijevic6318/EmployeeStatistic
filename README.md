@@ -1,4 +1,4 @@
-# **Link ka kodu : [employee_statistic](https://mega.nz/folder/zWYyWCZJ#VZWf_0nVGUpURvoRCtlD8w).**
+# **Link ka kodu[MEGA] : [employee_statistic](https://mega.nz/folder/zWYyWCZJ#VZWf_0nVGUpURvoRCtlD8w).**
 
 
 
